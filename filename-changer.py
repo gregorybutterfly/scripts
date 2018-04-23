@@ -9,7 +9,7 @@ Copy your files to 'images' directory and run the script with name argument.
 import os
 import argparse
 
-__AUTHOR__ = 'Gregory Motyl'
+__AUTHOR__ = 'Grzegorz Motyl'
 __PYTHON_VER__ = 'Python 3.5.2'
 
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
